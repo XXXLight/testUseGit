@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+# 在Ver2版本新拉的分支，所以代码相对于Ver2版本做改变
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
