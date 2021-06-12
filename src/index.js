@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
+import XJJ from './XJJ'
 
 
 class Square extends React.Component{
@@ -28,10 +29,11 @@ class Square extends React.Component{
 }
 
 
+
 // ========================================
 
 ReactDOM.render(
-  <Square />,
+  <XJJ />,
   document.getElementById('root')
 );
 
