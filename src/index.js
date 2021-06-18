@@ -2,13 +2,15 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import XJJ from './XJJ'
+import XJJItem from './XJJItem'
 
-
+b asdbb dhjb slhj
+第一次
 class Square extends React.Component{
   constructor(props){
     super(props);
     this.state={
-      value:null,
+      value:null,asbd kvch,ad
     };
     console.log("constro");
   }
