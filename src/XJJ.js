@@ -8,6 +8,7 @@ class XJJ extends React.Component {
         // 自己的数据
         this.state={
             sf vsdv dsgm vsf,.bs/f d
+            df vmdf 
             // 中间冒号，结尾逗号
             inputV:'serv1',
             list:['ser3','serv4']
