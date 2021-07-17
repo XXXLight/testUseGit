@@ -12,6 +12,7 @@ class XJJ extends React.Component {
             // 中间冒号，结尾逗号
             inputV:'serv1',
             list:['ser3','serv4']
+            b szkg
         }
         // 绑定函数，可用箭头函数代替
         //this.inputChange=this.inputChange.bind(this)
