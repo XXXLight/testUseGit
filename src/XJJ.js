@@ -1,7 +1,7 @@
 import React, { Component, Fragment } from 'react'
 import './style.css'
 import XJJItem from './XJJItem'
-
+修改xjj
 class XJJ extends React.Component {
     constructor(props){
         super(props)
