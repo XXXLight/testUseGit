@@ -63,6 +63,8 @@ class XJJ extends React.Component {
             inputV:this.input.value
         })
     }
+    
+    xiugai xjj
     addList=()=>{
         this.setState({
             list:[...this.state.list,this.state.inputV],
