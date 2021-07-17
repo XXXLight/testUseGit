@@ -56,6 +56,8 @@ class XJJ extends React.Component {
     }
     inputChange=(e)=>{
         console.log(e.target.value);
+        
+        hahahha
         this.setState({
             //inputV : e.target.value
             inputV:this.input.value
